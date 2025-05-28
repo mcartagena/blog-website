@@ -134,3 +134,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# VSCode settings
+.vscode/
+
+# GitHub Copilot/Actions/Workflows
+.github/
+
+# Dependency directories
+node_modules/
+
+# npm lock file
+package-lock.json

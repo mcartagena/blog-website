@@ -1,5 +1,7 @@
 # Blog Website
 
+Live demo: [https://blog-website-z3p8.onrender.com](https://blog-website-z3p8.onrender.com)
+
 This project is a blog web application built with Node.js, Express.js, and EJS. It allows users to create and view blog posts. Posts do not persist between sessions, as no database is used. Design and user experience are priorities in this project.
 
 ## Scripts
